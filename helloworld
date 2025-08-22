@@ -7,7 +7,7 @@
 	    {
 	        public static void Main(string[] args)
 	        {
-	            Console.writeline("Hello World!");
+	            Console.WriteLine("Hello World!");
 	        }
 	    }
 	}
