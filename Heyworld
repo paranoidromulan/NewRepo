@@ -1,0 +1,13 @@
+	﻿using System.Runtime.InteropServices;
+	 
+	namespace Exercise001
+	{
+	    using System;
+	    public class Program
+	    {
+	        public static void Main(string[] args)
+	        {
+	            Console.WriteLine("Hey World!");
+	        }
+	    }
+	}
